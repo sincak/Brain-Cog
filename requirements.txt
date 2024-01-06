@@ -15,4 +15,5 @@ pygame
 dv
 tensorboard
 tonic
-
+objgraph
+pympler
